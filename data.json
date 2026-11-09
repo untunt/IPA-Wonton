@@ -1,0 +1,2902 @@
+{
+  "letter_tabs": [
+    {
+      "label": "字母 1",
+      "buttons": [
+        [
+          {
+            "normal": {
+              "default": "p",
+              "capital": "P",
+              "small_capital": "ᴘ"
+            },
+            "superscript": {
+              "default": "ᵖ",
+              "capital": "ᴾ",
+              "small_capital": "𝿑"
+            },
+            "subscript": {
+              "default": "ₚ"
+            }
+          },
+          {
+            "normal": {
+              "default": "b",
+              "capital": "B",
+              "small_capital": "ʙ"
+            },
+            "superscript": {
+              "default": "ᵇ",
+              "capital": "ᴮ",
+              "small_capital": "𐞄"
+            }
+          },
+          {
+            "normal": {
+              "default": "m",
+              "capital": "M",
+              "small_capital": "ᴍ"
+            },
+            "superscript": {
+              "default": "ᵐ",
+              "capital": "ᴹ"
+            },
+            "subscript": {
+              "default": "ₘ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɱ",
+              "capital": "Ɱ"
+            },
+            "superscript": {
+              "default": "ᶬ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɸ"
+            },
+            "superscript": {
+              "default": "ᶲ"
+            }
+          },
+          {
+            "normal": {
+              "default": "β",
+              "capital": "Β"
+            },
+            "superscript": {
+              "default": "ᵝ"
+            },
+            "subscript": {
+              "default": "ᵦ"
+            }
+          },
+          null,
+          {
+            "normal": {
+              "default": "ʙ"
+            },
+            "superscript": {
+              "default": "𐞄"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "f",
+              "capital": "F",
+              "small_capital": "ꜰ"
+            },
+            "superscript": {
+              "default": "ᶠ"
+            }
+          },
+          {
+            "normal": {
+              "default": "v",
+              "capital": "V",
+              "small_capital": "ᴠ"
+            },
+            "superscript": {
+              "default": "ᵛ",
+              "capital": "ⱽ"
+            },
+            "subscript": {
+              "default": "ᵥ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʋ",
+              "capital": "Ʋ"
+            },
+            "superscript": {
+              "default": "ᶹ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ⱱ"
+            },
+            "superscript": {
+              "default": "𐞰"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "θ",
+              "capital": "Θ"
+            },
+            "superscript": {
+              "default": "ᶿ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ð",
+              "capital": "Ð",
+              "small_capital": "ᴆ"
+            },
+            "superscript": {
+              "default": "ᶞ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɬ",
+              "capital": "Ɬ"
+            },
+            "superscript": {
+              "default": "𐞛"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɮ"
+            },
+            "superscript": {
+              "default": "𐞞"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "t",
+              "capital": "T",
+              "small_capital": "ᴛ"
+            },
+            "superscript": {
+              "default": "ᵗ",
+              "capital": "ᵀ"
+            },
+            "subscript": {
+              "default": "ₜ"
+            }
+          },
+          {
+            "normal": {
+              "default": "d",
+              "capital": "D",
+              "small_capital": "ᴅ"
+            },
+            "superscript": {
+              "default": "ᵈ",
+              "capital": "ᴰ",
+              "small_capital": "𝿨"
+            }
+          },
+          {
+            "normal": {
+              "default": "n",
+              "capital": "N",
+              "small_capital": "ɴ"
+            },
+            "superscript": {
+              "default": "ⁿ",
+              "capital": "ᴺ",
+              "small_capital": "ᶰ"
+            },
+            "subscript": {
+              "default": "ₙ"
+            }
+          },
+          {
+            "normal": {
+              "default": "l",
+              "capital": "L",
+              "small_capital": "ʟ"
+            },
+            "superscript": {
+              "default": "ˡ",
+              "capital": "ᴸ",
+              "small_capital": "ᶫ"
+            },
+            "subscript": {
+              "default": "ₗ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "s",
+              "capital": "S",
+              "small_capital": "ꜱ"
+            },
+            "superscript": {
+              "default": "ˢ",
+              "capital": "꟱"
+            },
+            "subscript": {
+              "default": "ₛ"
+            }
+          },
+          {
+            "normal": {
+              "default": "z",
+              "capital": "Z",
+              "small_capital": "ᴢ"
+            },
+            "superscript": {
+              "default": "ᶻ"
+            },
+            "subscript": {
+              "default": "₟"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɾ"
+            },
+            "superscript": {
+              "default": "𐞩"
+            }
+          },
+          {
+            "normal": {
+              "default": "r",
+              "capital": "R",
+              "small_capital": "ʀ"
+            },
+            "superscript": {
+              "default": "ʳ",
+              "capital": "ᴿ",
+              "small_capital": "𐞪"
+            },
+            "subscript": {
+              "default": "ᵣ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʃ",
+              "capital": "Ʃ"
+            },
+            "superscript": {
+              "default": "ᶴ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʒ",
+              "capital": "Ʒ",
+              "small_capital": "ᴣ"
+            },
+            "superscript": {
+              "default": "ᶾ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɹ",
+              "small_capital": "ᴚ"
+            },
+            "superscript": {
+              "default": "ʴ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɺ"
+            },
+            "superscript": {
+              "default": "𐞦"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʈ",
+              "capital": "Ʈ"
+            },
+            "superscript": {
+              "default": "𐞯"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɖ",
+              "capital": "Ɖ"
+            },
+            "superscript": {
+              "default": "𐞋"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɳ"
+            },
+            "superscript": {
+              "default": "ᶯ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɭ"
+            },
+            "superscript": {
+              "default": "ᶩ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʂ"
+            },
+            "superscript": {
+              "default": "ᶳ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʐ"
+            },
+            "superscript": {
+              "default": "ᶼ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɻ"
+            },
+            "superscript": {
+              "default": "ʵ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɽ",
+              "capital": "Ɽ"
+            },
+            "superscript": {
+              "default": "𐞨"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɕ"
+            },
+            "superscript": {
+              "default": "ᶝ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʑ"
+            },
+            "superscript": {
+              "default": "ᶽ"
+            }
+          },
+          null,
+          {
+            "normal": {
+              "default": "ɧ"
+            },
+            "superscript": {
+              "default": "𐞗"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "c",
+              "capital": "C",
+              "small_capital": "ᴄ"
+            },
+            "superscript": {
+              "default": "ᶜ",
+              "capital": "ꟲ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɟ"
+            },
+            "superscript": {
+              "default": "ᶡ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɲ",
+              "capital": "Ɲ"
+            },
+            "superscript": {
+              "default": "ᶮ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʎ"
+            },
+            "superscript": {
+              "default": "𐞠"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ç",
+              "capital": "Ç"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʝ",
+              "capital": "Ʝ"
+            },
+            "superscript": {
+              "default": "ᶨ"
+            }
+          },
+          {
+            "normal": {
+              "default": "j",
+              "capital": "J",
+              "small_capital": "ᴊ"
+            },
+            "superscript": {
+              "default": "ʲ",
+              "capital": "ᴶ"
+            },
+            "subscript": {
+              "default": "ⱼ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɥ",
+              "capital": "Ɥ"
+            },
+            "superscript": {
+              "default": "ᶣ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "k",
+              "capital": "K",
+              "small_capital": "ᴋ"
+            },
+            "superscript": {
+              "default": "ᵏ",
+              "capital": "ᴷ"
+            },
+            "subscript": {
+              "default": "ₖ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɡ",
+              "capital": "Ɡ"
+            },
+            "superscript": {
+              "default": "ᶢ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ŋ",
+              "capital": "Ŋ"
+            },
+            "superscript": {
+              "default": "ᵑ",
+              "capital": "ᴻ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʟ"
+            },
+            "superscript": {
+              "default": "ᶫ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "x",
+              "capital": "X"
+            },
+            "superscript": {
+              "default": "ˣ"
+            },
+            "subscript": {
+              "default": "ₓ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɣ",
+              "capital": "Ɣ"
+            },
+            "superscript": {
+              "default": "ˠ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɰ"
+            },
+            "superscript": {
+              "default": "ᶭ"
+            }
+          },
+          {
+            "normal": {
+              "default": "w",
+              "capital": "W",
+              "small_capital": "ᴡ"
+            },
+            "superscript": {
+              "default": "ʷ",
+              "capital": "ᵂ"
+            },
+            "subscript": {
+              "default": "₝"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "q",
+              "capital": "Q",
+              "small_capital": "ꞯ"
+            },
+            "superscript": {
+              "default": "𐞥",
+              "capital": "ꟴ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɢ"
+            },
+            "superscript": {
+              "default": "𐞒"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɴ"
+            },
+            "superscript": {
+              "default": "ᶰ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʍ"
+            },
+            "superscript": {
+              "default": "ꭩ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "χ",
+              "capital": "Χ"
+            },
+            "superscript": {
+              "default": "ᵡ"
+            },
+            "subscript": {
+              "default": "ᵪ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʁ"
+            },
+            "superscript": {
+              "default": "ʶ"
+            }
+          },
+          null,
+          {
+            "normal": {
+              "default": "ʀ"
+            },
+            "superscript": {
+              "default": "𐞪"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʕ"
+            },
+            "superscript": {
+              "default": "ˤ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʢ"
+            },
+            "superscript": {
+              "default": "𐞴"
+            }
+          },
+          {
+            "normal": {
+              "default": "ħ",
+              "capital": "Ħ"
+            },
+            "superscript": {
+              "default": "𐞕",
+              "capital": "ꟸ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʜ"
+            },
+            "superscript": {
+              "default": "𐞖"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʔ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʡ"
+            },
+            "superscript": {
+              "default": "𐞳"
+            }
+          },
+          {
+            "normal": {
+              "default": "h",
+              "capital": "H",
+              "small_capital": "ʜ"
+            },
+            "superscript": {
+              "default": "ʰ",
+              "capital": "ᴴ",
+              "small_capital": "𐞖"
+            },
+            "subscript": {
+              "default": "ₕ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɦ",
+              "capital": "Ɦ"
+            },
+            "superscript": {
+              "default": "ʱ"
+            }
+          }
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "i",
+              "capital": "I",
+              "small_capital": "ɪ"
+            },
+            "superscript": {
+              "default": "ⁱ",
+              "capital": "ᴵ",
+              "small_capital": "ᶦ"
+            },
+            "subscript": {
+              "default": "ᵢ"
+            }
+          },
+          {
+            "normal": {
+              "default": "e",
+              "capital": "E",
+              "small_capital": "ᴇ"
+            },
+            "superscript": {
+              "default": "ᵉ",
+              "capital": "ᴱ",
+              "small_capital": "𝿪"
+            },
+            "subscript": {
+              "default": "ₑ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɛ",
+              "capital": "Ɛ"
+            },
+            "superscript": {
+              "default": "ᵋ"
+            }
+          },
+          {
+            "normal": {
+              "default": "a",
+              "capital": "A",
+              "small_capital": "ᴀ"
+            },
+            "superscript": {
+              "default": "ᵃ",
+              "capital": "ᴬ",
+              "small_capital": "𝿩"
+            },
+            "subscript": {
+              "default": "ₐ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "y",
+              "capital": "Y",
+              "small_capital": "ʏ"
+            },
+            "superscript": {
+              "default": "ʸ",
+              "small_capital": "𐞲"
+            },
+            "subscript": {
+              "default": "₞"
+            }
+          },
+          {
+            "normal": {
+              "default": "ø",
+              "capital": "Ø"
+            },
+            "superscript": {
+              "default": "𐞢"
+            }
+          },
+          {
+            "normal": {
+              "default": "œ",
+              "capital": "Œ",
+              "small_capital": "ɶ"
+            },
+            "superscript": {
+              "default": "ꟹ",
+              "small_capital": "𐞣"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɶ"
+            },
+            "superscript": {
+              "default": "𐞣"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɨ",
+              "capital": "Ɨ"
+            },
+            "superscript": {
+              "default": "ᶤ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɘ"
+            },
+            "superscript": {
+              "default": "𐞎"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɜ",
+              "capital": "Ɜ"
+            },
+            "superscript": {
+              "default": "ᶟ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʉ",
+              "capital": "Ʉ"
+            },
+            "superscript": {
+              "default": "ᶶ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɵ",
+              "capital": "Ɵ"
+            },
+            "superscript": {
+              "default": "ᶱ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɞ"
+            },
+            "superscript": {
+              "default": "𐞏"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɯ",
+              "capital": "Ɯ",
+              "small_capital": "ꟺ"
+            },
+            "superscript": {
+              "default": "ᵚ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɤ",
+              "capital": "Ɤ"
+            },
+            "superscript": {
+              "default": "𐞑"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʌ",
+              "capital": "Ʌ"
+            },
+            "superscript": {
+              "default": "ᶺ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɑ",
+              "capital": "Ɑ"
+            },
+            "superscript": {
+              "default": "ᵅ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "u",
+              "capital": "U",
+              "small_capital": "ᴜ"
+            },
+            "superscript": {
+              "default": "ᵘ",
+              "capital": "ᵁ",
+              "small_capital": "ᶸ"
+            },
+            "subscript": {
+              "default": "ᵤ"
+            }
+          },
+          {
+            "normal": {
+              "default": "o",
+              "capital": "O",
+              "small_capital": "ᴏ"
+            },
+            "superscript": {
+              "default": "ᵒ",
+              "capital": "ᴼ"
+            },
+            "subscript": {
+              "default": "ₒ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɔ",
+              "capital": "Ɔ",
+              "small_capital": "ᴐ"
+            },
+            "superscript": {
+              "default": "ᵓ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɒ",
+              "capital": "Ɒ"
+            },
+            "superscript": {
+              "default": "ᶛ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɪ",
+              "capital": "Ɪ"
+            },
+            "superscript": {
+              "default": "ᶦ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ə",
+              "capital": "Ə"
+            },
+            "superscript": {
+              "default": "ᵊ"
+            },
+            "subscript": {
+              "default": "ₔ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɚ"
+            }
+          },
+          {
+            "normal": {
+              "default": "æ",
+              "capital": "Æ"
+            },
+            "superscript": {
+              "default": "𐞃",
+              "capital": "ᴭ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʏ"
+            },
+            "superscript": {
+              "default": "𐞲"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʊ",
+              "capital": "Ʊ"
+            },
+            "superscript": {
+              "default": "ᶷ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɝ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɐ",
+              "capital": "Ɐ"
+            },
+            "superscript": {
+              "default": "ᵄ"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "label": "字母 2",
+      "buttons": [
+        [
+          {
+            "normal": {
+              "default": "ƥ",
+              "capital": "Ƥ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɓ",
+              "capital": "Ɓ"
+            },
+            "superscript": {
+              "default": "𐞅"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʘ"
+            },
+            "superscript": {
+              "default": "𐞵"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʬ"
+            }
+          }
+        ],
+        [
+          null,
+          {
+            "normal": {
+              "default": "ꞗ",
+              "capital": "Ꞗ"
+            }
+          },
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ȹ"
+            },
+            "superscript": {
+              "default": "𝿟"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȸ"
+            },
+            "superscript": {
+              "default": "𝿞"
+            }
+          },
+          {
+            "normal": {
+              "default": "ẟ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʭ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "𝼤"
+            }
+          },
+          {
+            "normal": {
+              "default": "𝼟"
+            }
+          },
+          {
+            "normal": {
+              "default": "ǀ"
+            },
+            "superscript": {
+              "default": "𐞶"
+            }
+          },
+          {
+            "normal": {
+              "default": "ǁ"
+            },
+            "superscript": {
+              "default": "𐞷"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ƭ",
+              "capital": "Ƭ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɗ",
+              "capital": "Ɗ"
+            },
+            "superscript": {
+              "default": "𐞌"
+            }
+          },
+          {
+            "normal": {
+              "default": "ǃ"
+            },
+            "superscript": {
+              "default": "ꜝ"
+            }
+          },
+          {
+            "normal": {
+              "default": "¡"
+            },
+            "superscript": {
+              "default": "ꜞ"
+            },
+            "subscript": {
+              "default": "ꜟ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʦ"
+            },
+            "superscript": {
+              "default": "𐞬"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʣ"
+            },
+            "superscript": {
+              "default": "𐞇"
+            }
+          },
+          {
+            "normal": {
+              "default": "ƾ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ł",
+              "capital": "Ł",
+              "small_capital": "ᴌ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʧ"
+            },
+            "superscript": {
+              "default": "𐞮"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʤ"
+            },
+            "superscript": {
+              "default": "𐞊"
+            }
+          },
+          {
+            "normal": {
+              "default": "ſ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ß",
+              "capital": "ẞ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "𝼉"
+            },
+            "superscript": {
+              "default": "𝿿"
+            }
+          },
+          {
+            "normal": {
+              "default": "ᶑ"
+            },
+            "superscript": {
+              "default": "𐞍"
+            }
+          },
+          {
+            "normal": {
+              "default": "𝼊"
+            },
+            "superscript": {
+              "default": "𐞹"
+            }
+          },
+          {
+            "normal": {
+              "default": "𝼈"
+            },
+            "superscript": {
+              "default": "𐞧"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ꭧ"
+            },
+            "superscript": {
+              "default": "𐞭"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꭦ"
+            },
+            "superscript": {
+              "default": "𐞈"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꞎ"
+            },
+            "superscript": {
+              "default": "𐞝"
+            }
+          },
+          {
+            "normal": {
+              "default": "𝼅"
+            },
+            "superscript": {
+              "default": "𐞟"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʨ"
+            },
+            "superscript": {
+              "default": "𐞫"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʥ"
+            },
+            "superscript": {
+              "default": "𐞉"
+            }
+          },
+          {
+            "normal": {
+              "default": "ǂ"
+            },
+            "superscript": {
+              "default": "𐞸"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ȶ"
+            },
+            "superscript": {
+              "default": "𝿲"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȡ"
+            },
+            "superscript": {
+              "default": "𝿯"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȵ"
+            },
+            "superscript": {
+              "default": "𝿱"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȴ"
+            },
+            "superscript": {
+              "default": "𝿰"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ƈ",
+              "capital": "Ƈ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʄ"
+            },
+            "superscript": {
+              "default": "𐞘"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɉ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȷ",
+              "capital": "J"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ƙ",
+              "capital": "Ƙ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɠ",
+              "capital": "Ɠ",
+              "small_capital": "ʛ"
+            },
+            "superscript": {
+              "default": "𐞓",
+              "small_capital": "𐞔"
+            }
+          },
+          {
+            "normal": {
+              "default": "ƞ",
+              "capital": "Ƞ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꜧ",
+              "capital": "Ꜧ"
+            },
+            "superscript": {
+              "default": "ꭜ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʞ",
+              "capital": "Ʞ",
+              "small_capital": "𝼐"
+            },
+            "superscript": {
+              "default": "𐞾"
+            }
+          },
+          {
+            "normal": {
+              "default": "g",
+              "capital": "G",
+              "small_capital": "ɢ"
+            },
+            "superscript": {
+              "default": "ᵍ",
+              "capital": "ᴳ",
+              "small_capital": "𐞒"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꜭ",
+              "capital": "Ꜭ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʠ"
+            },
+            "superscript": {
+              "default": "𝿽"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʛ"
+            },
+            "superscript": {
+              "default": "𐞔"
+            }
+          },
+          null,
+          null
+        ],
+        [
+          null,
+          {
+            "normal": {
+              "default": "ᴚ"
+            }
+          },
+          null,
+          {
+            "normal": {
+              "default": "ᴙ"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ˁ"
+            }
+          },
+          {
+            "normal": {
+              "default": "꟏",
+              "capital": "꟎"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꜥ",
+              "capital": "Ꜥ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ˀ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ɂ",
+              "capital": "Ɂ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꜣ",
+              "capital": "Ꜣ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "∅"
+            }
+          },
+          {
+            "normal": {
+              "default": "0̸"
+            }
+          },
+          {
+            "normal": {
+              "default": "ȼ",
+              "capital": "Ȼ"
+            }
+          },
+          {
+            "normal": {
+              "default": "◌"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɿ"
+            },
+            "superscript": {
+              "default": "𝿫"
+            }
+          },
+          {
+            "normal": {
+              "default": "ᴇ"
+            },
+            "superscript": {
+              "default": "𝿪"
+            }
+          },
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʮ"
+            },
+            "superscript": {
+              "default": "𝿭"
+            }
+          },
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʅ"
+            },
+            "superscript": {
+              "default": "𝿬"
+            }
+          },
+          {
+            "normal": {
+              "default": "ᵻ"
+            },
+            "superscript": {
+              "default": "ᶧ"
+            }
+          },
+          null,
+          {
+            "normal": {
+              "default": "ᴀ"
+            },
+            "superscript": {
+              "default": "𝿩"
+            }
+          }
+        ],
+        [
+          {
+            "normal": {
+              "default": "ʯ"
+            },
+            "superscript": {
+              "default": "𝿮"
+            }
+          },
+          {
+            "normal": {
+              "default": "ᵿ"
+            },
+            "superscript": {
+              "default": "𝿚"
+            }
+          },
+          {
+            "normal": {
+              "default": "ʚ"
+            }
+          },
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "𝾉"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꭥ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ⱺ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɩ",
+              "capital": "Ɩ"
+            },
+            "superscript": {
+              "default": "ᶥ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ı",
+              "capital": "İ"
+            }
+          },
+          null,
+          null
+        ],
+        [
+          {
+            "normal": {
+              "default": "ɷ",
+              "capital": "꟝"
+            },
+            "superscript": {
+              "default": "𐞤"
+            }
+          },
+          {
+            "normal": {
+              "default": "ᴜ"
+            },
+            "superscript": {
+              "default": "ᶸ"
+            }
+          },
+          {
+            "normal": {
+              "default": "ꞷ",
+              "capital": "Ꞷ"
+            }
+          },
+          null
+        ]
+      ]
+    }
+  ],
+  "modifier_tabs": [
+    {
+      "label": "符号 1",
+      "buttons": [
+        [
+          {
+            "spacing": {
+              "default": "⟨",
+              "high": "⟨",
+              "low": "⟨"
+            }
+          },
+          {
+            "spacing": {
+              "default": "←",
+              "high": "←",
+              "low": "←"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⟩",
+              "high": "⟩",
+              "low": "⟩"
+            }
+          },
+          {
+            "spacing": {
+              "default": "→",
+              "high": "→",
+              "low": "→"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̼",
+              "high": "◌᫥",
+              "low": "◌̼"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̫",
+              "high": "◌᫇",
+              "low": "◌̫"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̪",
+              "high": "◌͆",
+              "low": "◌̪"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̺",
+              "high": "◌᫣",
+              "low": "◌̺"
+            },
+            "spacing": {
+              "default": "˽",
+              "low": "˽"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌͡◌",
+              "high": "◌͡◌",
+              "low": "◌᷼◌"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͜◌",
+              "high": "◌͝◌",
+              "low": "◌͜◌"
+            },
+            "spacing": {
+              "default": "‿",
+              "low": "‿"
+            }
+          }
+        ],
+        [
+          null,
+          {
+            "combining": {
+              "default": "◌̻",
+              "high": "◌᫤",
+              "low": "◌̻"
+            }
+          }
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌˞",
+              "high": "◌˞",
+              "low": "◌̢"
+            },
+            "spacing": {
+              "default": "˞",
+              "high": "˞"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̣",
+              "high": "◌̇",
+              "low": "◌̣"
+            },
+            "spacing": {
+              "high": "˙"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁵",
+              "high": "⁵",
+              "low": "₅"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˥",
+              "high": "˥",
+              "low": "꜒"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁴",
+              "high": "⁴",
+              "low": "₄"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˦",
+              "high": "˦",
+              "low": "꜓"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "³",
+              "high": "³",
+              "low": "₃"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˧",
+              "high": "˧",
+              "low": "꜔"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "²",
+              "high": "²",
+              "low": "₂"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˨",
+              "high": "˨",
+              "low": "꜕"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "¹",
+              "high": "¹",
+              "low": "₁"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˩",
+              "high": "˩",
+              "low": "꜖"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁰",
+              "high": "⁰",
+              "low": "₀"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̵",
+              "high": "◌̵",
+              "low": "◌̵"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "|",
+              "high": "|",
+              "low": "|"
+            }
+          },
+          {
+            "spacing": {
+              "default": "‖",
+              "high": "‖",
+              "low": "‖"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̚",
+              "high": "◌̚"
+            },
+            "spacing": {
+              "default": "̚",
+              "high": "̚"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̴",
+              "high": "◌̴",
+              "low": "◌̴"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̜",
+              "high": "◌͑",
+              "low": "◌̜"
+            },
+            "spacing": {
+              "default": "ʿ",
+              "high": "ʿ",
+              "low": "˓"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̔",
+              "high": "◌̔"
+            },
+            "spacing": {
+              "default": "ʽ",
+              "high": "ʽ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̹",
+              "high": "◌͗",
+              "low": "◌̹"
+            },
+            "spacing": {
+              "default": "ʾ",
+              "high": "ʾ",
+              "low": "˒"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̓",
+              "high": "◌̓",
+              "low": "◌̦"
+            },
+            "spacing": {
+              "default": "ʼ",
+              "high": "ʼ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̥",
+              "high": "◌̊",
+              "low": "◌̥"
+            },
+            "spacing": {
+              "default": "˳",
+              "high": "˚",
+              "low": "˳"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̒",
+              "high": "◌̒"
+            },
+            "spacing": {
+              "default": "ʻ",
+              "high": "ʻ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̟",
+              "high": "◌᫈",
+              "low": "◌̟"
+            },
+            "spacing": {
+              "default": "˖",
+              "low": "˖"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̘",
+              "high": "◌᫠",
+              "low": "◌̘"
+            },
+            "spacing": {
+              "default": "꭪",
+              "low": "꭪"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̠",
+              "high": "◌᫢",
+              "low": "◌̠"
+            },
+            "spacing": {
+              "default": "˗",
+              "low": "˗"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̙",
+              "high": "◌᫡",
+              "low": "◌̙"
+            },
+            "spacing": {
+              "default": "꭫",
+              "low": "꭫"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̝",
+              "high": "◌᷵",
+              "low": "◌̝"
+            },
+            "spacing": {
+              "default": "˔",
+              "low": "˔"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̞",
+              "high": "◌᫛",
+              "low": "◌̞"
+            },
+            "spacing": {
+              "default": "˕",
+              "low": "˕"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌́",
+              "high": "◌́",
+              "low": "◌̗"
+            },
+            "spacing": {
+              "default": "ˊ",
+              "high": "ˊ",
+              "low": "ˏ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̀",
+              "high": "◌̀",
+              "low": "◌̖"
+            },
+            "spacing": {
+              "default": "ˋ",
+              "high": "ˋ",
+              "low": "ˎ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̄",
+              "high": "◌̄",
+              "low": "◌̱"
+            },
+            "spacing": {
+              "default": "ˉ",
+              "high": "ˉ",
+              "low": "ˍ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̩",
+              "high": "◌̍",
+              "low": "◌̩"
+            },
+            "spacing": {
+              "default": "ˈ",
+              "high": "ˈ",
+              "low": "ˌ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̯",
+              "high": "◌̑",
+              "low": "◌̯"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̆",
+              "high": "◌̆",
+              "low": "◌̮"
+            },
+            "spacing": {
+              "default": "˘",
+              "high": "˘"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̃",
+              "high": "◌̃",
+              "low": "◌̰"
+            },
+            "spacing": {
+              "default": "˜",
+              "high": "˜",
+              "low": "˷"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̈",
+              "high": "◌̈",
+              "low": "◌̤"
+            },
+            "spacing": {
+              "default": "¨",
+              "high": "¨"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "ː",
+              "high": "ː",
+              "low": "ː"
+            }
+          },
+          {
+            "spacing": {
+              "default": "ˑ",
+              "high": "ˑ",
+              "low": "ˑ"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "label": "符号 2",
+      "buttons": [
+        [
+          {
+            "spacing": {
+              "default": "⟪",
+              "high": "⟪",
+              "low": "⟪"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌᷾",
+              "high": "◌᷾",
+              "low": "◌͔"
+            },
+            "spacing": {
+              "default": "˂",
+              "high": "˂"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⟫",
+              "high": "⟫",
+              "low": "⟫"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͐",
+              "high": "◌͐",
+              "low": "◌͕"
+            },
+            "spacing": {
+              "default": "˃",
+              "high": "˃"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⟦",
+              "high": "⟦",
+              "low": "⟦"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͍",
+              "low": "◌͍"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⟧",
+              "high": "⟧",
+              "low": "⟧"
+            }
+          },
+          {
+            "spacing": {
+              "default": "⫽",
+              "high": "⫽",
+              "low": "⫽"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "ʹ",
+              "high": "ʹ",
+              "low": "ʹ"
+            }
+          },
+          null
+        ],
+        [
+          {
+            "spacing": {
+              "default": "ʺ",
+              "high": "ʺ",
+              "low": "ʺ"
+            }
+          },
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̡",
+              "low": "◌̡"
+            }
+          },
+          {
+            "spacing": {
+              "default": "ꞏ",
+              "high": "ꞏ",
+              "low": "ꞏ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̧",
+              "low": "◌̧"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜈",
+              "high": "꜈",
+              "low": "꜍"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁹",
+              "high": "⁹",
+              "low": "₉"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜉",
+              "high": "꜉",
+              "low": "꜎"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁸",
+              "high": "⁸",
+              "low": "₈"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜊",
+              "high": "꜊",
+              "low": "꜏"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁷",
+              "high": "⁷",
+              "low": "₇"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜋",
+              "high": "꜋",
+              "low": "꜐"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁶",
+              "high": "⁶",
+              "low": "₆"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜌",
+              "high": "꜌",
+              "low": "꜑"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "˹",
+              "high": "˹"
+            }
+          },
+          {
+            "spacing": {
+              "default": "⹀",
+              "high": "⹀",
+              "low": "⹀"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⤴",
+              "high": "⤴",
+              "low": "⤴"
+            }
+          },
+          {
+            "spacing": {
+              "default": "⤵",
+              "high": "⤵",
+              "low": "⤵"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "˺",
+              "high": "˺"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͉",
+              "high": "◌᫩",
+              "low": "◌͉"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁽",
+              "high": "⁽",
+              "low": "₍"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜀",
+              "high": "꜂",
+              "low": "꜀"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁾",
+              "high": "⁾",
+              "low": "₎"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜆",
+              "high": "꜄",
+              "low": "꜆"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁼",
+              "high": "⁼",
+              "low": "₌"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜁",
+              "high": "꜃",
+              "low": "꜁"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁺",
+              "high": "⁺",
+              "low": "₊"
+            }
+          },
+          {
+            "spacing": {
+              "default": "꜇",
+              "high": "꜅",
+              "low": "꜇"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "⁻",
+              "high": "⁻",
+              "low": "₋"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˫",
+              "high": "˫",
+              "low": "˫"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌᫪",
+              "high": "◌᫪",
+              "low": "◌͎"
+            },
+            "spacing": {
+              "default": "ꜛ",
+              "high": "ꜛ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌᪳",
+              "high": "◌᪳"
+            },
+            "spacing": {
+              "default": "ꜜ",
+              "high": "ꜜ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̋",
+              "high": "◌̋",
+              "low": "◌᫯"
+            },
+            "spacing": {
+              "default": "˝",
+              "high": "˝"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̏",
+              "high": "◌̏",
+              "low": "◌᫮"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌͇",
+              "high": "◌᫨",
+              "low": "◌͇"
+            },
+            "spacing": {
+              "high": "˭"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͈",
+              "high": "◌̎",
+              "low": "◌͈"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̂",
+              "high": "◌̂",
+              "low": "◌̭"
+            },
+            "spacing": {
+              "default": "ˆ",
+              "high": "ˆ",
+              "low": "ꞈ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̌",
+              "high": "◌̌",
+              "low": "◌̬"
+            },
+            "spacing": {
+              "default": "ˇ",
+              "high": "ˇ",
+              "low": "ˬ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌͌",
+              "high": "◌͌",
+              "low": "◌᷽"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̽",
+              "high": "◌̽",
+              "low": "◌͓"
+            },
+            "spacing": {
+              "default": "˟",
+              "high": "˟"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌͊",
+              "high": "◌͊"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͋",
+              "high": "◌͋"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "label": "符号 3",
+      "buttons": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌ͬ",
+              "high": "◌ͬ",
+              "low": "◌᷊"
+            }
+          },
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̷",
+              "high": "◌̷",
+              "low": "◌̷"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̸",
+              "high": "◌̸",
+              "low": "◌̸"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌ͥ",
+              "high": "◌ͥ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌ͤ",
+              "high": "◌ͤ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌ᷪ",
+              "high": "◌ᷪ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌ͣ",
+              "high": "◌ͣ"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌ͧ",
+              "high": "◌ͧ"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌ͦ",
+              "high": "◌ͦ"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "˶",
+              "high": "˶",
+              "low": "˶"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˵",
+              "high": "˵",
+              "low": "˵"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̶",
+              "high": "◌̶",
+              "low": "◌̶"
+            }
+          },
+          {
+            "spacing": {
+              "default": "˴",
+              "high": "˴",
+              "low": "˴"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌̲",
+              "high": "◌̅",
+              "low": "◌̲"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌̳",
+              "high": "◌̿",
+              "low": "◌̳"
+            }
+          }
+        ],
+        [
+          {
+            "combining": {
+              "default": "◌͠◌",
+              "high": "◌͠◌"
+            }
+          },
+          {
+            "combining": {
+              "default": "◌͞◌",
+              "high": "◌͞◌",
+              "low": "◌͟◌"
+            }
+          }
+        ],
+        [
+          {
+            "spacing": {
+              "default": "𐞁",
+              "high": "𐞁"
+            }
+          },
+          {
+            "spacing": {
+              "default": "𐞂",
+              "high": "𐞂"
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "ipa_sets": {}
+}
