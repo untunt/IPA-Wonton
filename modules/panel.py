@@ -118,6 +118,7 @@ class SymbolButton(QPushButton):
         if self.label:
             self.value = self.label if self.is_letter else \
                 self.label.replace('◌', '')
+        self.setEnabled(bool(self.label))
         self.update()
 
     def paintEvent(self, event):
@@ -186,9 +187,15 @@ class IPAPanel(QWidget):
         outer.setContentsMargins(10, 10, 10, 10)
         outer.setSpacing(8)
 
+        dpr = self.devicePixelRatioF()
+        pixmap = QPixmap(str(self.root / 'resources' / 'logo.png')).scaled(
+            int(48 * dpr),
+            int(36 * dpr),
+            Qt.AspectRatioMode.KeepAspectRatio,
+            Qt.TransformationMode.SmoothTransformation)
+        pixmap.setDevicePixelRatio(dpr)
         self.header_logo = QLabel(self)
-        self.header_logo.setPixmap(QPixmap(str(self.root / 'resources' / 'logo.png')).scaled(
-            48, 36, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
+        self.header_logo.setPixmap(pixmap)
         self.header_logo.adjustSize()
         # 留待 show_panel() 中再设置位置，不然无法得知坐标
 
@@ -316,20 +323,19 @@ class IPAPanel(QWidget):
         layout.addStretch()
         radio_group.buttons()[0].click()
 
-        footer = QGridLayout()
-        footer.setColumnStretch(0, 1)
-        footer.setColumnStretch(1, 0)
-        footer.setColumnStretch(2, 1)
+        footer = QHBoxLayout()
         outer.addLayout(footer)
+        dummy_button = QPushButton('dummy')
+        dummy_button.setStyleSheet('color: transparent; border: none;')
+        footer.addWidget(dummy_button, alignment=Qt.AlignmentFlag.AlignLeft)
         hide_button = QPushButton('最小化')
         hide_button.setStyleSheet('background-color: #bcdcff;')
         hide_button.clicked.connect(self.hide_panel)
-        footer.addWidget(hide_button, 0, 1)
+        footer.addWidget(hide_button, alignment=Qt.AlignmentFlag.AlignCenter)
         exit_button = QPushButton('退出')
         exit_button.setStyleSheet('background-color: #ffcacc;')
         exit_button.clicked.connect(self.quit_application)
-        footer.addWidget(exit_button, 0, 2,
-                         alignment=Qt.AlignmentFlag.AlignRight)
+        footer.addWidget(exit_button, alignment=Qt.AlignmentFlag.AlignRight)
 
     def show_panel(self):
         self.show()
